@@ -99,9 +99,7 @@ const App = () => {
   //       const signer = provider.getSigner();
   //       const wavePortalContract = new ethers.Contract(contractAddress, contractABI, signer);
 
-  //       /*
-  //        * Call the getAllWaves method from your Smart Contract
-  //        */
+  //       
   //       const waves = await wavePortalContract.getAllWaves();
 
 
@@ -119,9 +117,7 @@ const App = () => {
   //         });
   //       });
 
-  //       /*
-  //        * Store our data in React State
-  //        */
+  //     
   //       setAllWaves(wavesCleaned);
   //     } else {
   //       console.log("Ethereum object doesn't exist!")
